@@ -426,7 +426,7 @@ SRE（Site Reliability Engineering）に興味を持ったことをきっかけ�
 ## デプロイ先のURL
 
 ```text
-http://103.4.9.129:8000/
+http://13.196.171.17:8000/
 ```
 
 > ECS Taskの再起動・再デプロイによってPublic IPが変更される場合があります。  
